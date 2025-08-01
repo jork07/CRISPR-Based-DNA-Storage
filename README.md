@@ -111,8 +111,8 @@ Simulate hybridization between two DNA sequences (e.g., ID-DNA and target DNA).
 
 ## Citation  
 
-This code has been submitted to a SCI-indexed journal for peer review. Future updates will focus on enhancing format compatibility (e.g., PNG/JPEG image support), optimizing runtime efficiency, and expanding simulation models (e.g., considering secondary structures).  
+This code has been submitted to a SCI-indexed journal for peer review. Future we will updates the full code without encryption.
 
 --- 
 
-*For questions or feedback, please contact the development team at [your-email@example.com].*
+*For questions or feedback, please contact  at [hongjingwei@qz-jk.com].*
